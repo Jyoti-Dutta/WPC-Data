@@ -1,18 +1,18 @@
-App Analytics & Monetization Dashboard
-📌 Project Overview
+📱 App Analytics & Monetization Dashboard
+📌 Objective
 
-This project analyzes mobile app performance data (10k+ installs) to uncover insights into user growth, engagement, crashes, churn, and monetization.
-The analysis combines Python (EDA, data cleaning, visualization) and Power BI dashboards to provide actionable insights for improving user retention and revenue.
+To analyze mobile app performance data (10k+ installs) and uncover insights into user growth, engagement, crashes, churn, and monetization.
+This project combines Python (EDA, data cleaning, visualization) and Power BI dashboards to deliver actionable insights that improve user retention and revenue.
 
-🎯 Objectives
+🎯 Key Goals
 
-Clean and preprocess multiple app-related datasets (AdMob, DAU, new users, ratings, crashes, user loss).
+✅ Clean and preprocess multiple app-related datasets (AdMob, DAU, new users, ratings, crashes, user loss).
 
-Perform exploratory data analysis (EDA) to identify key usage and monetization patterns.
+✅ Perform exploratory data analysis (EDA) to identify key usage and monetization patterns.
 
-Build interactive Power BI dashboards for stakeholders.
+✅ Build interactive Power BI dashboards for stakeholders.
 
-Publish dashboards to Power BI Service for real-time accessibility.
+✅ Publish dashboards to Power BI Service for real-time accessibility.
 
 🗂️ Datasets
 
@@ -28,14 +28,14 @@ New Users Data: User acquisition trends.
 
 Ratings Data: Google Play Store daily ratings.
 
-🛠️ Tools & Technologies
+🛠️ Tools Used
 
-Python: Pandas, NumPy, Matplotlib, Seaborn (EDA & visualizations).
+Python: Pandas, NumPy, Matplotlib, Seaborn (EDA & visualizations)
 
-SQL: Data cleaning and transformations (PostgreSQL).
+SQL: Data cleaning and transformations (PostgreSQL)
 
-Power BI: Dashboard creation, DAX measures, KPIs, drillthroughs.
+Power BI: Dashboard creation, DAX measures, KPIs, drillthroughs
 
-Power BI Service: Published live dashboards for business stakeholders.
+Power BI Service: Published live dashboards for business use
 
-Version Control: GitHub for project management and versioning.
+Version Control: GitHub for project management and sharing
